@@ -2,3 +2,6 @@ pictures/*
 !pictures/cake/
 
 .Rproj.user
+recipes.Rproj
+.Rhistory
+.RData
